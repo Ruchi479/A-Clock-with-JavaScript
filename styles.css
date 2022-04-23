@@ -1,0 +1,19 @@
+*, *::after, *::before {
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background: rgb(109, 197, 219);
+}
+
+.clock{
+    width:300px;
+    background-color: rgba(255, 255, 255, .8);
+    height: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+
+
